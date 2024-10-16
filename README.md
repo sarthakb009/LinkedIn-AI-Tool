@@ -1,5 +1,7 @@
 # LinkedIn Message Assistant Chrome Extension
 
+![Screen Recording](ScreenRecording.mov)
+
 This Chrome extension, designed using the **WXT framework**, streamlines LinkedIn messaging by automating the process of generating replies. It enables users to quickly craft and insert predefined responses directly within the LinkedIn interface, significantly reducing the time spent on repetitive messaging tasks.
 
 ## Key Features
