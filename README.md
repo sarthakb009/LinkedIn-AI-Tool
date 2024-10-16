@@ -1,6 +1,6 @@
-# LinkedIn Message Assistant Chrome Extension
+https://github.com/sarthakb009/LinkedIn-AI-Tool/issues/1#issue-2590977838
 
-](https://github.com/sarthakb009/LinkedIn-AI-Tool/issues/1#issue-2590977838)
+# LinkedIn Message Assistant Chrome Extension
 
 This Chrome extension, designed using the **WXT framework**, streamlines LinkedIn messaging by automating the process of generating replies. It enables users to quickly craft and insert predefined responses directly within the LinkedIn interface, significantly reducing the time spent on repetitive messaging tasks.
 
